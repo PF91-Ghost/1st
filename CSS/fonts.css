@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "sansus";
+src: url(../Fonts/sansus.ttf);
+}
+
+@font-face {
+    font-family: "s1";
+    src: url(../Fonts/s1.otf);
+}
+
+@font-face {
+    font-family: "s4";
+    src: url(../Fonts/s4.otf);
+}
+
+.s1{
+    font-family: s1;
+}
+
+.s4{
+    font-family: s4;
+}
